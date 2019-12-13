@@ -1,2 +1,2 @@
 # line_bot
-learn line bot
+Repo ini adalah tempat buat menyimpan kodingan saat belajar membuat line bot
